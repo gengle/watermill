@@ -8,7 +8,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v1.4.4
 	github.com/ThreeDotsLabs/watermill-nats v1.0.7
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
-	github.com/go-chi/chi/v5 v5.2.0
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-chi/render v1.0.3
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang/snappy v0.0.4 // indirect
