@@ -29,7 +29,7 @@ require (
 )
 
 require (
-	filippo.io/edwards25519 v1.1.0 // indirect
+	filippo.io/edwards25519 v1.1.1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/go-chi/chi v4.1.2+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
