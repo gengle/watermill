@@ -1,8 +1,6 @@
 module delayed-requeue
 
-go 1.23
-
-toolchain go1.23.4
+go 1.25.0
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.4.4
@@ -32,8 +30,8 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sony/gobreaker v1.0.0 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
-	golang.org/x/crypto v0.32.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.36.3 // indirect
 )
