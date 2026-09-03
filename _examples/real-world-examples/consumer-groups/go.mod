@@ -17,7 +17,7 @@ require (
 
 require (
 	github.com/ThreeDotsLabs/watermill-redisstream v1.4.2
-	github.com/redis/go-redis/v9 v9.7.0
+	github.com/redis/go-redis/v9 v9.7.3
 )
 
 require (
