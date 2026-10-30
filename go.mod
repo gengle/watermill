@@ -1,10 +1,10 @@
 module github.com/ThreeDotsLabs/watermill
 
-go 1.21
+go 1.24
 
 require (
 	github.com/cenkalti/backoff/v3 v3.2.2
-	github.com/go-chi/chi/v5 v5.1.0
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.4
 	github.com/google/uuid v1.6.0
